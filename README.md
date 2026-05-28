@@ -1,7 +1,7 @@
 # VOIS_AICTE_Oct2025_Arul_mozhi_P
 Analysis on Airbnb Dataset
 
-Project Title -  "Analyzing Airbnb Content Trends for Strategic Insights and Market Optimization
+Project Title -  "Analyzing Airbnb Content Trends for Strategic Insights and Market Optimization"
 
 ## PROBLEM STATEMENT
 Airbnb hosts and business strategists face challenges in identifying the key factors that drive listing success, pricing dynamics, and guest satisfaction. With thousands of listings spread across various neighborhoods and property types, it becomes difficult to:
